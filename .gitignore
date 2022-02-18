@@ -121,3 +121,17 @@ work_dirs/
 *.pth
 *.py~
 *.sh~
+#add
+*pyc
+*pth
+__pycache__
+work_dirs/*
+tmp/*
+*.ipython_checkpoints/
+.ipython_checkpoints/*
+*.ipynb_checkpoints/
+.ipynb_checkpoints/*
+*jpg
+# work dir
+work_dirs/
+work_dirs
